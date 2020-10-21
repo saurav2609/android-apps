@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">BookMyShow Clone</string>
     <string name="error_msg">Oops!! Something went wrong</string>
-    <string name="no_internet">Oops! No internet</string>
+    <string name="no_internet">Oops!! No internet</string>
 </resources>
