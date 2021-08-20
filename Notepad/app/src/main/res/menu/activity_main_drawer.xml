@@ -15,26 +15,6 @@
                 android:id="@+id/nav_share"
                 android:title="Saurav Kumar"
                 tools:ignore="DuplicateIds" />
-            <item
-                android:id="@+id/nav_share"
-                android:title="Sittara Promod"
-                tools:ignore="DuplicateIds"/>
-            <item
-                android:id="@+id/nav_share"
-                android:title="Uddeshya Giri"
-                tools:ignore="DuplicateIds"/>
-            <item
-                android:id="@+id/nav_share"
-                android:title="Parthasarthi"
-                tools:ignore="DuplicateIds"/>
-            <item
-                android:id="@+id/nav_share"
-                android:title="Vivek Venketesh"
-                tools:ignore="DuplicateIds"/>
-            <item
-                android:id="@+id/nav_share"
-                android:title="Shahid Akhtar"
-                tools:ignore="DuplicateIds"/>
         </menu>
     </item>
 </menu>
