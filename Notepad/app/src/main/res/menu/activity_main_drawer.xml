@@ -6,10 +6,10 @@
         <item
             android:id="@+id/nav_camera"
             android:icon="@drawable/about"
-            android:title="Our Team" />
+            android:title="For OOC Activity" />
     </group>
 
-    <item android:title="OOC Activity">
+    <item android:title="Developed by">
         <menu>
             <item
                 android:id="@+id/nav_share"
