@@ -1,0 +1,7 @@
+#Sun Nov 29 18:54:33 IST 2020
+base.0=D\:\\h7WnYHrATVS1p2B6wK1UBg_f63cd7bfd94a4f4c8d4de342b90ccadc_m3-shapes-assignment\\m3-shapes\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\h7WnYHrATVS1p2B6wK1UBg_f63cd7bfd94a4f4c8d4de342b90ccadc_m3-shapes-assignment\\m3-shapes\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex

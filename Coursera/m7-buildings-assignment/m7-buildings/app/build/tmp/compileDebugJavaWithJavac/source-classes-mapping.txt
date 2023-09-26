@@ -1,0 +1,22 @@
+mooc/vandy/java4android/buildings/logic/House.java
+ mooc.vandy.java4android.buildings.logic.House
+mooc/vandy/java4android/buildings/ui/MainActivity.java
+ mooc.vandy.java4android.buildings.ui.MainActivity
+mooc/vandy/java4android/buildings/BuildConfig.java
+ mooc.vandy.java4android.buildings.BuildConfig
+mooc/vandy/java4android/buildings/logic/Cottage.java
+ mooc.vandy.java4android.buildings.logic.Cottage
+mooc/vandy/java4android/buildings/logic/Neighborhood.java
+ mooc.vandy.java4android.buildings.logic.Neighborhood
+mooc/vandy/java4android/buildings/ui/OutputInterface.java
+ mooc.vandy.java4android.buildings.ui.OutputInterface
+mooc/vandy/java4android/buildings/logic/Logic.java
+ mooc.vandy.java4android.buildings.logic.Logic
+mooc/vandy/java4android/buildings/logic/Building.java
+ mooc.vandy.java4android.buildings.logic.Building
+mooc/vandy/java4android/buildings/logic/LogicInterface.java
+ mooc.vandy.java4android.buildings.logic.LogicInterface
+mooc/vandy/java4android/buildings/logic/Office.java
+ mooc.vandy.java4android.buildings.logic.Office
+mooc/vandy/java4android/buildings/logic/BuildingList.java
+ mooc.vandy.java4android.buildings.logic.BuildingList
